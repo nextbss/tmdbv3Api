@@ -66,7 +66,7 @@ public class SomeClass{
 }
 ```
 
-### get movies
+### get movie details
 ```java
 public class SomeClass{
     TmdbApi tmdbApi = TmdbApi.getInstance("API_KEY");
